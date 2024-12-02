@@ -1,0 +1,5 @@
+2001;Papel;32.0;31;44;177;Brillante
+2002;Papel bond;32.0;37;38;277;2
+2003;Papelito;327.0;22;38;77;3
+2004;wqeqw;21.0;21;15;44;Soft Touch
+2005;Papelito;23.0;44;66;132;Brillante
